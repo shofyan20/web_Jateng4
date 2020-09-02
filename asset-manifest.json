@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/web_Jateng4.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/web_Jateng4.git/static/js/main.48da18a9.chunk.js",
+    "main.js.map": "/web_Jateng4.git/static/js/main.48da18a9.chunk.js.map",
+    "runtime-main.js": "/web_Jateng4.git/static/js/runtime-main.ae2492ac.js",
+    "runtime-main.js.map": "/web_Jateng4.git/static/js/runtime-main.ae2492ac.js.map",
+    "static/css/2.539a684d.chunk.css": "/web_Jateng4.git/static/css/2.539a684d.chunk.css",
+    "static/js/2.c7a21716.chunk.js": "/web_Jateng4.git/static/js/2.c7a21716.chunk.js",
+    "static/js/2.c7a21716.chunk.js.map": "/web_Jateng4.git/static/js/2.c7a21716.chunk.js.map",
+    "index.html": "/web_Jateng4.git/index.html",
+    "precache-manifest.f0c88525043cb9e5ba3e5cabf48a7aee.js": "/web_Jateng4.git/precache-manifest.f0c88525043cb9e5ba3e5cabf48a7aee.js",
+    "service-worker.js": "/web_Jateng4.git/service-worker.js",
+    "static/css/2.539a684d.chunk.css.map": "/web_Jateng4.git/static/css/2.539a684d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/web_Jateng4.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c7a21716.chunk.js.LICENSE.txt": "/web_Jateng4.git/static/js/2.c7a21716.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/web_Jateng4.git/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/web_Jateng4.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2492ac.js",
+    "static/css/2.539a684d.chunk.css",
+    "static/js/2.c7a21716.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.48da18a9.chunk.js"
+  ]
+}
